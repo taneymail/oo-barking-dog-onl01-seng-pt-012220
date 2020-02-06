@@ -1,4 +1,3 @@
 class dog
-  
-  fido = Dog.new 
+  def name=(dog_name)
 

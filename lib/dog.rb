@@ -1,1 +1,2 @@
-class dog# Your code goes here!
+class dog   # Your code goes here!
+
